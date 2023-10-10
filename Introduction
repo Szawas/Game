@@ -1,0 +1,7 @@
+public class Kelompok17 {
+    public static void main(String[] args) {
+        System.out.println("Kelompok 17");
+        System.out.println("1. Yovanza Villareal (G1A023054)");
+        System.out.println("2. Fathiyya Nafisah (G1A023056)");
+    }
+}
